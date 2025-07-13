@@ -1,1 +1,1 @@
-This project entails the development of a credit risk detection model based on historical credit data obtained from banking institutions
+This project comprises the development of a credit risk detection model based on historical credit data obtained from banking institutions, with the objective of participating in FTU DSTC 2024 Competition
